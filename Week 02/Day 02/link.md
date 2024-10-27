@@ -1,0 +1,3 @@
+- https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1415
+- https://lightoj.com/problem/points-in-segments
+- https://www.spoj.com/problems/MAIN8_C/en/
